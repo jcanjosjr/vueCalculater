@@ -1,24 +1,14 @@
-# calculator
+<h1 align="center">Calculadora - Com Vue.js e CSS.</h1>
+<p align="center">:snowflake: Fazendo uma Calculadora com Vue.js!</p>
 
-## Project setup
-```
-yarn install
-```
+Uma Calculadora com objetivo de iniciar com a biblioteca VueJS, primeiro contato com Vue, projeto extremamente simples, pra entender a componentização do projeto e a manipulação da DOM e do CSS com Vue.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+As seguintes ferramentas foram usadas na construção do projeto:
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- [JavaScript](https://www.javascript.com/)
+- [CSS](https://devdocs.io/css/)
+- [Yarn v1.22.11](https://classic.yarnpkg.com/en/)
+- [Vue v2.6.11](https://vuejs.org/)
+- [Babel v10.1.0](https://babeljs.io/)
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img align="right" src="https://i.ibb.co/Gn1pm8B/project-Calculater.png">
